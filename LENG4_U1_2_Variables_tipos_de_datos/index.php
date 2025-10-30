@@ -29,8 +29,8 @@
 <?php if ($edad >= 16 && $tieneLicencia){
     echo "Puedes conducir.";
 } else {
-    echo "No cumples con los requisitos para conducir."
-}?>
+    echo "No cumples con los requisitos para conducir.";
+};?>
    </p>
 </body>
 </html>
